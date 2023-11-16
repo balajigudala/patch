@@ -1,0 +1,22 @@
+From 83d1eec3df75f6488b35ca17cf51eb2863b55ecb Mon Sep 17 00:00:00 2001
+From: balajigudala <balajigudala2000@gmail.com>
+Date: Thu, 16 Nov 2023 17:43:21 +0530
+Subject: [PATCH] 2 mmod
+
+---
+ file1.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/file1.c b/file1.c
+index be12e59..46d2207 100644
+--- a/file1.c
++++ b/file1.c
+@@ -1,4 +1,4 @@
+ balu
+ gudala
+ billi
+-
++randy
+-- 
+2.34.1
+
