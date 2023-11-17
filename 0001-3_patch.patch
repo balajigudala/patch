@@ -1,0 +1,22 @@
+From eab4d63893863c624a0854db3042e9a8d97ac271 Mon Sep 17 00:00:00 2001
+From: balajigudala <balajigudala2000@gmail.com>
+Date: Fri, 17 Nov 2023 11:07:01 +0530
+Subject: [PATCH] 3_patch
+
+---
+ file1.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/file1.c b/file1.c
+index 46d2207..a5556d2 100644
+--- a/file1.c
++++ b/file1.c
+@@ -1,4 +1,4 @@
+ balu
+ gudala
+ billi
+-randy
++maandy
+-- 
+2.34.1
+
