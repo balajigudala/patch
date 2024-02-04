@@ -1,0 +1,3 @@
+/* add the below statement at the end of the .bashrc which is present in the home directory.
+
+export PATH="/Directory1:$PATH"
